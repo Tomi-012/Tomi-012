@@ -124,9 +124,3 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="35" height="35">
 </a>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/github-contribution-grid-snake-light.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/github-contribution-grid-snake.svg"/>
-</picture>
