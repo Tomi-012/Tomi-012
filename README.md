@@ -14,12 +14,5 @@
 <!-- ##### Top Languages
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tomi-012&layout=compact&theme=merko&hide_border=true) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/pacman-contribution-graph.svg">
-</picture>
-
-
 <img src="https://raw.githubusercontent.com/Tomi-012/Tomi-012/output/snake.svg" alt="Snake animation" />
 
