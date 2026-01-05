@@ -1,6 +1,6 @@
 ## Hello i'm Mas Tomi 👋
 
-![Tomi-012](image/pixel.png)
+![Tomi-012](image/pixel-pemandangan.png)
 
 #### Contact with me:
 <a href="https://www.instagram.com/?hl=id">
