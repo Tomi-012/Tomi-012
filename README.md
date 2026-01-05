@@ -1,6 +1,6 @@
 ## Hello i'm Mas Tomi 👋
 
-![Tomi-012](image/github-header-banner.png)
+![Tomi-012](image/pixel.png)
 
 #### Contact with me:
 <a href="https://www.instagram.com/?hl=id">
