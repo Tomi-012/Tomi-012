@@ -14,7 +14,7 @@
 
 <details>
   <summary style="cursor: pointer; list-style: none;">
-    <img src="https://img.shields.io/badge/BUKA%20QRIS-DANA-008FE5?style=for-the-badge&logo=dana&logoColor=white" alt="BUKA QRIS DANA" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/BUKA-DANA-008FE5?style=for-the-badge&logo=dana&logoColor=white" alt="BUKA QRIS DANA" style="vertical-align: middle;" />
   </summary>
 
   <br/>
