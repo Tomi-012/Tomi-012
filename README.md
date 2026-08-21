@@ -13,7 +13,7 @@
 #### Support with me:
 
 <details>
-  <summary><b>💙 Buka QRIS DANA</b></summary>
+  <summary><b>Buka</b> <img src="https://img.shields.io/badge/QRIS-DANA-008FE5?style=for-the-badge&logo=dana&logoColor=white" alt="QRIS DANA" style="vertical-align: middle;" /></summary>
 
   <br/>
 
