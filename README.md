@@ -14,7 +14,7 @@
 
 <details>
   <summary style="cursor: pointer; list-style: none;">
-    <img src="image/dana-icon.png" alt="DANA" width="48" height="48" style="vertical-align: middle; border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/BUKA%20QRIS-DANA-008FE5?style=for-the-badge&logo=dana&logoColor=white" alt="BUKA QRIS DANA" style="vertical-align: middle;" />
   </summary>
 
   <br/>
