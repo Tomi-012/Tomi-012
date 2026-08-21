@@ -13,7 +13,9 @@
 #### Support with me:
 
 <details>
-  <summary><b>Buka QRIS DANA</b></summary>
+  <summary style="cursor: pointer; list-style: none;">
+    <img src="image/dana-icon.png" alt="DANA" width="48" height="48" style="vertical-align: middle; border-radius: 12px;" />
+  </summary>
 
   <br/>
 
@@ -21,7 +23,8 @@
     <h3>💖 Support Me</h3>
     <p>Dukung saya agar tetap aktif dan terus berkarya. Terima kasih!</p>
     <br/>
-    <h2>🔹 DANA 🔹</h2>
+    <img src="image/dana-icon.png" alt="DANA Logo" width="64" height="64" style="border-radius: 16px;" />
+    <h4>DANA</h4>
     <p>Scan QRIS menggunakan aplikasi DANA atau E-Wallet / Mobile Banking lainnya</p>
     <br/>
     <img src="image/qris-dana.png" alt="QRIS DANA" width="300" />
