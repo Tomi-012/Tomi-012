@@ -24,7 +24,6 @@
     <p>Dukung saya agar tetap aktif dan terus berkarya. Terima kasih!</p>
     <br/>
     <img src="image/dana-icon.png" alt="DANA Logo" width="64" height="64" style="border-radius: 16px;" />
-    <h4>DANA</h4>
     <p>Scan QRIS menggunakan aplikasi DANA atau E-Wallet / Mobile Banking lainnya</p>
     <br/>
     <img src="image/qris-dana.png" alt="QRIS DANA" width="300" />
